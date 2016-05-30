@@ -1,8 +1,3 @@
-/**
-* author:ls
-* email:liusaint@gmail.com
-* date:2016年4月9日
-*/
 
 function SD(){
 	this.sdArr = [];//生成的数独数组	
