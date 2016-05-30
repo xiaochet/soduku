@@ -43,16 +43,7 @@ SD.prototype={
 		this.createBlankCells();
 	},
 	setLevel:function(){
-		//用户输入难度。
-		var num = prompt("请输入难度（5-50）"); 
-		if(!isNaN(num)){
-			num = parseInt(num);
-			num = num<5?5:num;
-			num = num>50?50:num;
-		}else{
-			num = false;
-		}
-		return num;
+		return 55;
 	},
 	createSdArr:function(){
 		//生成数独数组。
