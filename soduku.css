@@ -11,7 +11,7 @@ ul,li{
 			float: left;
 			display: inline-block;
 			margin: 0;
-			border: 1px dotted green;
+			border: 1px dotted blue;
 			height: 26px;
 			width: 26px;
 			line-height: 26px;
@@ -24,20 +24,20 @@ ul,li{
 		}
 
 		.bl{
-			border-left-color: green;
+			border-left-color: blue;
 			border-left-style: solid;
 		}
 		.bt{
-			border-top-color: green;
+			border-top-color: blue;
 			border-top-style: solid;
 		}
 		.br{
-			border-right-color: green;
+			border-right-color: blue;
 			border-right-width: 2px;
 			border-right-style: solid;
 		}
 		.bb{
-			border-bottom-color: green;
+			border-bottom-color: blue;
 			border-bottom-width: 2px;
 			border-bottom-style: solid;
 		}
